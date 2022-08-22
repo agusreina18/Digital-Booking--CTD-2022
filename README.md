@@ -10,6 +10,21 @@ El objetivo que perseguimos como equipo es la buena comunicación, fomentando la
 
 ## Equipo
 
+**AGUSTINA LEONELA OROZCO REINA**
+
+Agustina Leonela Orozco Reina
+Soy licenciada en Biología Molecular, dedicada a la docencia y a la investigación científica. Actualmente me encuentro culminando el trabajo final de la Maestría en Educación en Entornos Digitales. Mi incursión en la programación se dió en el año 2020 con una beca de formación BackEnd para mujeres, con el fin de aplicar lo aprendido en mi entorno de trabajo. Sin embargo, mi curiosidad me llevó más allá y quise seguir aprendiendo, razón por la que me postulé para las becas de Certified Tech Developer, centrando mi interés principalmente en la programación BackEnd y en base de datos, las cuales describo como mis fortalezas. 
+Durante el desarrollo de este proyecto, estuve abocada principalmente a las tareas de testing, tanto de Back y de Front. Dichas tareas fueron tales como la revisión de historias de usuario, creación de casos de prueba tanto para BackEnd como FrontEnd, realización de tests funcionales y no funcionales, Smoke Tests y Regression Tests. Automatización de pruebas de Front con Jest, procurando un coverage superior al 40%. Creación de peticiones y sets de pruebas para testeos de APIs con Postman. 
+
+
+| Tecnología | Fortaleza |
+|------------|-----------|
+Front end | :large_blue_circle: :large_blue_circle:  
+Back end | :large_blue_circle: :large_blue_circle:
+Infraestructura | :large_blue_circle:
+Testing /QA | :large_blue_circle: :large_blue_circle: :large_blue_circle:
+Base de Datos | :large_blue_circle: :large_blue_circle: :large_blue_circle: 
+
 **ERICK ADRIEL VAERNET**
 
 Soy Licenciado en Biología y Técnico Universitario en Programación. 
@@ -39,20 +54,6 @@ Infraestructura | :large_blue_circle:
 Testing /QA | :large_blue_circle: :large_blue_circle: 
 Base de Datos | :large_blue_circle: :large_blue_circle: :large_blue_circle: 
 
-**AGUSTINA LEONELA**
-
-Agustina Leonela
-Soy licenciada en Biología Molecular, dedicada a la docencia y a la investigación científica. Actualmente me encuentro culminando el trabajo final de la Maestría en Educación en Entornos Digitales. Mi incursión en la programación se dió en el año 2020 con una beca de formación BackEnd para mujeres, con el fin de aplicar lo aprendido en mi entorno de trabajo. Sin embargo, mi curiosidad me llevó más allá y quise seguir aprendiendo, razón por la que me postulé para las becas de Certified Tech Developer, centrando mi interés principalmente en la programación BackEnd y en base de datos, las cuales describo como mis fortalezas. 
-Durante el desarrollo de este proyecto, estuve abocada principalmente a las tareas de testing, tanto de Back y de Front. Dichas tareas fueron tales como la revisión de historias de usuario, creación de casos de prueba tanto para BackEnd como FrontEnd, realización de tests funcionales y no funcionales, Smoke Tests y Regression Tests. Automatización de pruebas de Front con Jest, procurando un coverage superior al 40%. Creación de peticiones y sets de pruebas para testeos de APIs con Postman. 
-
-
-| Tecnología | Fortaleza |
-|------------|-----------|
-Front end | :large_blue_circle: :large_blue_circle:  
-Back end | :large_blue_circle: :large_blue_circle:
-Infraestructura | :large_blue_circle:
-Testing /QA | :large_blue_circle: :large_blue_circle: :large_blue_circle:
-Base de Datos | :large_blue_circle: :large_blue_circle: :large_blue_circle: 
 
 **GREGO MARTINEZ**
 
